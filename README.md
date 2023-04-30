@@ -39,7 +39,6 @@ Midway requires configuration in order to connect to the systems you wish to int
 - `source`: The source system's configuration, including endpoint URL, authentication credentials, and data format.
 - `destination`: The destination system's configuration, including endpoint URL, authentication credentials, and data format.
 
-=======
 - `throttling`: Throttling configuration, including rate limits and time windows.
 
 - `transformation`: Data transformation configuration, including data mapping and formatting.
@@ -49,6 +48,14 @@ Midway requires configuration in order to connect to the systems you wish to int
 ## Contributing
 
 If you wish to contribute to Midway, please fork this repository and submit a pull request with your changes.
+
+##Team name:
+- Bits N' Bytes
+##Team Members:
+- Janmejay Chatterjee
+- Prem Patel
+- Devvrat Singh
+
 
 ## License
 
