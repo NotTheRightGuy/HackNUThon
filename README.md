@@ -1,5 +1,7 @@
 # Midway 
-##Bi-Directional Integration Middleware
+
+## Bi-Directional Integration Middleware
+
 
 Midway is a backend middleware application that facilitates bi-directional integration between two separate systems supporting REST, SOAP, or GraphQL communication with compatibility between them. It can handle throttling, data transformation, security, and protocol conversion.
 
@@ -21,6 +23,8 @@ Our website allows you to receive responses from APIs in the format that you wan
 In addition, we support multiple databases for different data sources. This means that you can easily switch between different databases depending on your needs, without having to worry about data loss or compatibility issues. Our website handles all of the data transformation and conversion for you, so that you can focus on your business goals.  
 
 
+=======
+
 ## Getting started
 
 1. Clone this repository
@@ -34,6 +38,10 @@ Midway requires configuration in order to connect to the systems you wish to int
 
 - `source`: The source system's configuration, including endpoint URL, authentication credentials, and data format.
 - `destination`: The destination system's configuration, including endpoint URL, authentication credentials, and data format.
+
+=======
+- `throttling`: Throttling configuration, including rate limits and time windows.
+
 - `transformation`: Data transformation configuration, including data mapping and formatting.
 - `security`: Security configuration, including encryption and tokenization.
 - `protocol`: Protocol conversion configuration, including supported protocols and format conversion.
