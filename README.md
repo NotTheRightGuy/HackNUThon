@@ -1,4 +1,5 @@
-# Midway - Bi-Directional Integration Middleware
+# Midway 
+##Bi-Directional Integration Middleware
 
 Midway is a backend middleware application that facilitates bi-directional integration between two separate systems supporting REST, SOAP, or GraphQL communication with compatibility between them. It can handle throttling, data transformation, security, and protocol conversion.
 
