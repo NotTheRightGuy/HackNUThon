@@ -49,9 +49,10 @@ Midway requires configuration in order to connect to the systems you wish to int
 
 If you wish to contribute to Midway, please fork this repository and submit a pull request with your changes.
 
-##Team name:
+## Team name:
 - Bits N' Bytes
-##Team Members:
+
+## Team Members:
 - Janmejay Chatterjee
 - Prem Patel
 - Devvrat Singh
